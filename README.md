@@ -1,2 +1,1 @@
-# BogdanPasca.github.io
-Diferite proiecte Web
+- diferite proiecte Web
